@@ -1,1 +1,3 @@
 This is a story, a practice story to help me learn to get my git on.
+This is the story branching out for the first time so I can see how it works for myself.
+Neat.
